@@ -4,6 +4,12 @@ A printable perpetual calendar generator written in PHP and Bootstrap 5.
 
 This application generates a perpetual calendar for any Gregorian calendar year by automatically determining the weekday on which each month begins and arranging the months into the traditional perpetual calendar layout.
 
+<p align="center">
+    <img src="images/screenshot.png"
+         alt="Perpetual Calendar"
+         width="900">
+</p>
+
 ---
 
 ## Features
